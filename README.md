@@ -1,1 +1,1 @@
-# docker push yusovqa/yusovdocker
+# docker pull yusovqa/yusovdocker
